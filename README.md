@@ -5,6 +5,7 @@
     |__/|(_]| | (_][_)(_||(_|[ | )
          ._|                      
 
+# This fork is no longer used. It is being retained for historical reasons. Please see the [main repo](https://github.com/Manuvr/Digitabulum-Firmware) for current firmware.
 
 Digitabulum is an inertial motion-capture glove designed to be modular and open.
 
